@@ -1,0 +1,9 @@
+npm i expo-cli --global
+expo init next-level-week-mobile
+npm start
+npm add @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+npm install @react-navigation/bottom-tabs
+cd C:\Users\Emanuel Martins\Documents\projetos\aulas\next-level-week-mobile
+expo add expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
