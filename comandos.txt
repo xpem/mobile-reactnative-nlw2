@@ -5,5 +5,10 @@ npm add @react-navigation/native
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 npm install @react-navigation/stack
 npm install @react-navigation/bottom-tabs
+npm i axios
 cd C:\Users\Emanuel Martins\Documents\projetos\aulas\next-level-week-mobile
 expo add expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
+expo install @react-native-community/async-storage
+
+(servidor)
+C:\Users\Emanuel Martins\Documents\projetos\aulas\server-next-level-week
